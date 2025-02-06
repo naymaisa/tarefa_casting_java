@@ -11,7 +11,7 @@
        int numero1 = 56;
        System.out.println(numero1);
 
-      short numero2 = (short) numero1;
+      Integer numero2 = (Integer) numero1;
         System.out.println(numero2);
     }
 
